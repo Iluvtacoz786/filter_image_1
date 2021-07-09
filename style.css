@@ -1,0 +1,18 @@
+body{
+    background-color:#d5bdf2;
+}
+#title{
+    font-family: 'Zen Loop', cursive;
+    font-size:56px;
+    background-color: aliceblue;
+    margin-top:0;
+}
+#snap1{
+    background-color:#9061c9;
+    color:white;
+}
+canvas{
+border-style:dotted;
+border-width:3px;
+border-color:black;
+}
